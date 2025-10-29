@@ -1,7 +1,7 @@
 SIGN_KEY = 'oc3q7ingf978mx457fgk4587fg847'
 RUCAPTCHA_KEY = ''
-NAME = ''
-USER_ID = 0
-TOKEN = ''
+NAME = 'vagin22'
+USER_ID = 96A8VK/E
+TOKEN = '5f77dd373acdfdcd96204700d25398f4'
 HUMAN_CAPTCHA_SOLVE = True
 level = 'INFO'
